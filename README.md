@@ -2,7 +2,7 @@
 
 Convert HTML to XHTML
 
-good to know 6 steps:
+Good to know 6 steps:
 
 First step: 
   add !DOCTYPE as the first line of the page!!!
@@ -16,3 +16,7 @@ Fifth step:
   use id attribute instead of name attribute!
 Sixth step: 
   make sure that all attribute values have quotes around them!
+
+See the webpage bellow:
+
+https://www.w3.org/1999/xhtml/
